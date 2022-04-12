@@ -1,5 +1,5 @@
 # hello-world
 
-Ala ma kota
+Ala ma psa
 
 zmiana nr 1
